@@ -1,7 +1,6 @@
 package se.citerus.labs;
 
 import org.junit.Test;
-import se.citerus.labs.Morse;
 
 import java.util.List;
 
